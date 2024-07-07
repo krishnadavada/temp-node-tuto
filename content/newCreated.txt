@@ -1,0 +1,13 @@
+newCreated Filehere is the result : first text
+helooo
+this is first text file.,second text
+helooo
+this is second text file.here is the result : first text
+helooo
+this is first text file.,second text
+helooo
+this is second text file.here is the result : first text
+helooo
+this is first text file.,second text
+helooo
+this is second text file.
